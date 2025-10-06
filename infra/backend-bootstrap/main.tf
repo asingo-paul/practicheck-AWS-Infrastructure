@@ -1,0 +1,1 @@
+#  contains of the s3 + DynamoDB bootsrap
